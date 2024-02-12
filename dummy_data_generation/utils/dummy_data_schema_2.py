@@ -513,7 +513,7 @@ content_poemas_para_mi = [
         "poem_id": 44,
         "name": "balcon",
         "title": "Balcón",
-        "body": "Si se te antoja saltar, llámame\ny nos tiramos los dos.\n\nAsí verás que no miento,\ncuando te digo:\n\"el amor es una decisión\";\n\nque, si me das tu mano,\nme aferraría a ella el resto de mi vida,\n\ny que aceptar la muerte,\nno es tan difícil,\nsi te tengo junto a mí.",
+        "body": 'Si se te antoja saltar, llámame\ny nos tiramos los dos.\n\nAsí verás que no miento,\ncuando te digo:\n"el amor es una decisión";\n\nque, si me das tu mano,\nme aferraría a ella el resto de mi vida,\n\ny que aceptar la muerte,\nno es tan difícil,\nsi te tengo junto a mí.',
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 1,
@@ -527,7 +527,7 @@ content_book_ii_eng = [
         "poem_id": 1,
         "name": "god",
         "title": "God",
-        "body": "",
+        "body": "Don't heal me.\nI want sadness,\nI want depression;\nthey are my muses,\ndon't take them away.\nDo not fill me,\nI am so full,\nthat I don’t accept more.\nI feel nauseous\nwhen they talk to me about purposes.\nI would like to vomit,\nleave my mind blank,\nignore everything\nand —perhaps— be happy.",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -538,7 +538,7 @@ content_book_ii_eng = [
         "poem_id": 2,
         "name": "identity",
         "title": "Identity",
-        "body": "",
+        "body": "Explore the storm.\nTouch yourself and feel\nhow everything is\nwind, sand, and dirt;\none dry season,\nanother one, wet.\nYou are a pendulum\nthat swings\nbetween tears and anger;\nsometimes ascetic,\nsometimes a sinner.\nFrom warm to cold,\nyou stir yourself.\nNever constant,\neach time heavier\nit’s hard for you to oscillate.\nWhat are you?\nNot the you;\nbut the infinite sum\nof what surrounds you:\nfinite impulses,\nalien wills.\nWhen you stop,\nin balance,\nyou will realize.",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -549,7 +549,7 @@ content_book_ii_eng = [
         "poem_id": 3,
         "name": "spica",
         "title": "Spica",
-        "body": "",
+        "body": "You,\nartist and muse,\nan impossible dichotomy.\nBetween your worship and the celestial,\nI prefer condemnation.\nMartyr for you,\nwhom veiled\nbetween heaven and earth,\nwelcomes under your shadow\nthe nonconformists.\nFor the weary\nof dawn and dusk,\nyou are the salvation of the everyday,\nour eternal eclipse.",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -559,8 +559,25 @@ content_book_ii_eng = [
     {
         "poem_id": 4,
         "name": "moral",
-        "title": "Moral",
-        "body": "",
+        "title": "Morality",
+        "body": """It can always get worse,
+fall deeper.
+The light at the end of the tunnel is left behind,
+and you wonder:
+Will I ever hit bottom?
+You fall for so long
+that up or down
+makes no sense;
+better or worse makes no difference.
+You think:
+What should I do?
+—Don’t do.
+Be, exist.
+Enjoy your wickedness, your goodness,
+whatever you are;
+however it is,
+soon
+you will collide with the abyss.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -571,7 +588,25 @@ content_book_ii_eng = [
         "poem_id": 5,
         "name": "exhortation",
         "title": "Exhortation",
-        "body": "",
+        "body": """Love, disaster.
+Among all the deserts,
+the cactus pricks at the sun,
+bleeds and scorches the earth.
+The Sphinx’s sandals
+do not shield her from the flames.
+Abandoned
+—poetry and music—
+buried among the dunes.
+Those who managed to escape
+were caught by the shadow.
+Thousands of notes, rhythms, and chords
+extinguished by a sandstorm,
+like a rain of bullets,
+an artistic genocide.
+Everyone is given a life,
+but who can become immortal.
+Write, carve, scream, record.
+Artist, your days are numbered.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -582,7 +617,37 @@ content_book_ii_eng = [
         "poem_id": 6,
         "name": "writers_voice",
         "title": "Writer's Voice",
-        "body": "",
+        "body": """I found my writer’s voice.
+It’s guttural,
+—muted and raspy—
+filled with pessimism.
+
+It proclaims:
+—Ignorance makes you happy.
+
+That’s why
+when I call you,
+ignore me
+and look
+towards where white noise
+obscures my voice.
+
+Every time I invite you,
+with a defeated look,
+to reflect
+on life,
+cover your eyes
+and move away from me.
+
+But, why?
+You keep reading.
+
+Follow my voice,
+I will free you from happiness.
+
+From a corner,
+I call you to the shade
+where everything is knowledge.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -593,7 +658,31 @@ content_book_ii_eng = [
         "poem_id": 7,
         "name": "defeatism",
         "title": "Defeatism",
-        "body": "",
+        "body": """Life begins halfway
+when you decide between
+being the ripest fruit in the treetop
+or going back and not sprouting.
+I chose to go back, not to be it;
+to descend in the hierarchy.
+To warn, convince others
+of the imminent trap:
+up there, only waiting to be devoured
+or ignored;
+eventually fall and rot.
+Two paths that lead
+to the same dung pit
+to nourish the cycle again.
+I didn’t want more effort in vain
+so I found the roots,
+at the deepest.
+Finished, I drowned in the earth
+and had no more pretensions
+to see the sun again.
+I flooded that dry and weary tree with tears.
+I discovered that
+the penances borne by knowledge
+are loneliness and sadness,
+failure.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -604,7 +693,39 @@ content_book_ii_eng = [
         "poem_id": 8,
         "name": "rat_utopia",
         "title": "Rat Utopia",
-        "body": "",
+        "body": """At the pinnacle of development,
+plastic hands mold morality:
+The masculine
+is forced into the feminine,
+which in turn
+marches to its encounter;
+in the center, they merge
+and bewildered,
+they themselves
+are no more.
+Alienated, they want to cry,
+they cannot;
+there are no emotions,
+only automatons
+reacting to stimuli.
+Love, hatred;
+ambitions, humanity:
+social constructions,
+defects of the system.
+Power defeats competition
+and corrupt hierarchies
+come crashing down.
+Blame is cast left, right;
+on the Devil, on God.
+They became indifferent long ago.
+On the other hand,
+Bacchus gets drunk
+and enjoys the panorama:
+
+Post-apocalyptic, postmodern;
+without roles, without identity.
+The coveted anarchy:
+A rat utopia.""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -616,7 +737,15 @@ content_book_ii_eng = [
         "poem_id": 9,
         "name": "reflection_ii",
         "title": "Reflection II",
-        "body": "",
+        "body": """To elude the inevitable
+is to speak of God.
+Speaking of God is
+to think outside of time.
+Thinking outside of time
+is to dream.
+Dreaming is to fantasize
+that life’s problems
+vanish in the act of writing.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -627,7 +756,14 @@ content_book_ii_eng = [
         "poem_id": 10,
         "name": "reflection_iii",
         "title": "Reflection III",
-        "body": "",
+        "body": """The artist is not in the work,
+the artist is in the soul:
+between the mind and the heart,
+through the lungs,
+beneath the sternum;
+where the cigar,
+after each draw,
+leaves a glowing ember.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -638,7 +774,12 @@ content_book_ii_eng = [
         "poem_id": 11,
         "name": "reflection_iv",
         "title": "Reflection IV",
-        "body": "",
+        "body": """At night
+on the beach,
+the smoke dissipates
+in a magical way;
+it takes on a different demeanor,
+trying to mimic the serenity of the sea.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -649,7 +790,9 @@ content_book_ii_eng = [
         "poem_id": 12,
         "name": "reflection_xii",
         "title": "Reflection XII",
-        "body": "",
+        "body": """I oscillate between the bad and the worse;
+not being the best version of myself,
+and not wanting to be.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -660,9 +803,20 @@ content_book_ii_eng = [
         "poem_id": 13,
         "name": "its_not_enough",
         "title": "It's not enough",
-        "body": "",
+        "body": """It’s curious
+that not being the best
+version of yourself
+makes you bad.
+
+And not wanting to be
+makes you worse.
+
+The perplexing thing
+is that
+to be good
+it’s not enough to just want to be.""",
         "cover_url": libro_ii_cover,
-        "ig_url": "",
+        "ig_url": """""",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
         "updated_at": datetime.datetime.now(),
@@ -671,7 +825,27 @@ content_book_ii_eng = [
         "poem_id": 14,
         "name": "czech",
         "title": "Czech",
-        "body": "",
+        "body": """The first step
+to overcome an addiction
+is to accept it.
+
+You can’t mask
+drunkenness
+believing you are sober.
+
+To move over you,
+I must accept
+that there are parts of you
+I can’t forget.
+
+And it’s not an obsession with you,
+but with what you represent:
+The idealization of a woman;
+the perfect muse.
+
+The eternal whim
+of wanting
+what I cannot attain.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -682,7 +856,36 @@ content_book_ii_eng = [
         "poem_id": 15,
         "name": "hatred",
         "title": "Hatred",
-        "body": "",
+        "body": """I will shave my eyebrows
+and tear my garments;
+turned into a complete ascetic,
+hermetic,
+I will close the valve of my soul.
+No more s of emotions;
+stagnant,
+they will turn me into carrion.
+Mangy and stray,
+I will howl at the moon
+and without decorum, I will show indulgence
+for my own weakness.
+
+There is no mercy
+in wisdom.
+There is no wisdom
+in weariness;
+so bored of the common,
+so tired of failure.
+
+Without stories,
+mine are recurring words,
+vaguely connected phrases;
+intense colors
+that abstract everything to figures,
+the search for meaning
+leading me to nothing,
+forcing a thought
+vulgarizing intellect;
+the hatred for myself.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -693,7 +896,29 @@ content_book_ii_eng = [
         "poem_id": 16,
         "name": "she",
         "title": "She",
-        "body": "",
+        "body": """You loved her, in your way.
+Under an uneven yoke,
+you broke her neck.
+And with oaths,
+you promised change,
+but not from your end.
+You deceived her,
+and her blind faith exacerbated her alienation.
+From artist to muse,
+her gaze changed:
+her radiance, her eyes.
+She became your model.
+Transfigured,
+you consecrated her to your altar
+alongside the Pleiades
+where she now rests,
+stripped of her body;
+which, buried by time,
+without a cross or epitaph,
+was forgotten.
+Will she rest in peace?
+Who was she?
+The girlfriend of...""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -704,7 +929,39 @@ content_book_ii_eng = [
         "poem_id": 17,
         "name": "half_red_lucky_pack",
         "title": "Half Red Lucky Pack",
-        "body": "",
+        "body": """One cig.
+We talked about love and the soul.
+We don’t know them, who does?
+Yet, she spoke of her ex,
+and I of the one I’ve never had.
+
+Two cigs.
+We talked about otherness:
+everyone knows each other,
+but no one understands anyone.
+—We will never truly be friends.
+—I don’t pretend we will.
+
+Three cigs.
+Resorted to blows,
+ignored words.
+Fists that speak
+of long-standing resentments.
+I just observe.
+
+Four cigs.
+Words through smoke.
+We kill time,
+we burn tobacco.
+We look at each other, we laugh;
+we gaze at the sky,
+we exhale.
+
+Five cigs.
+—The last one is sacred.
+
+Silence,
+a symbol of our friendship.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -715,7 +972,16 @@ content_book_ii_eng = [
         "poem_id": 18,
         "name": "reflection_ix",
         "title": "Reflection IX",
-        "body": "",
+        "body": """“The devil knows more
+by being old
+than by being a devil.”
+If the wisdom
+that only eons
+can bring
+has not moved him toward a change,
+why should I
+seek virtue
+in holiness?""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -729,7 +995,42 @@ content_book_i_eng = [
         "poem_id": 19,
         "name": "nostalgia",
         "title": "Nostalgia",
-        "body": "",
+        "body": """I Remember. . .
+the good times past
+like opaque brushstrokes
+on a gray canvas.
+
+My traumas,
+esplanades of black;
+constantly, I dream
+of the emptiness of the night.
+
+Recurring nightmares,
+in micro-dreams
+that seem eternal.
+
+Libido drowned
+by sleep paralysis.
+
+Without pleasure in the mundane,
+the senses become depressed;
+atrophied,
+they no longer perceive
+the beautiful things in life.
+
+Insensitive to nuances,
+I only rest
+within white noise.
+
+Only music
+brings color
+to my memories.
+
+And only you
+bring
+the green and red
+I need
+to not be sad.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -740,7 +1041,38 @@ content_book_i_eng = [
         "poem_id": 20,
         "name": "a_sad_world",
         "title": "A Sad World",
-        "body": "",
+        "body": """A sad world
+where people learn,
+where people grow.
+
+They arrive at the limit
+of their capabilities,
+at the pinnacle
+of knowledge.
+
+Overwhelmed by
+the questions
+of yesteryear,
+they find the
+same old answers:
+
+That there is no destiny;
+that everything is chance.
+
+That anything is right
+if it can be justified.
+
+And though everything is relative
+and nothing is true,
+
+the purpose of life
+is still
+death.
+
+Only certain of this,
+living in such a world,
+why prolong
+the inexorable?""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -751,7 +1083,32 @@ content_book_i_eng = [
         "poem_id": 21,
         "name": "acrylic",
         "title": "Acrylic",
-        "body": "",
+        "body": """I dreamed of the abyss,
+once again.
+
+Each time darker
+and closer to me.
+
+On the edge of the ledge
+descending in
+a spiral,
+
+and every night,
+before waking up,
+I stop
+and observe the sky,
+
+Opaque and gray,
+as if with a distant dawn;
+
+dim and muted,
+always raining here.
+
+I dreamed of the abyss,
+once again.
+
+Each time deeper
+and within me.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -762,7 +1119,11 @@ content_book_i_eng = [
         "poem_id": 22,
         "name": "cliche",
         "title": "Cliché",
-        "body": "",
+        "body": """Imposter,
+even if you’re plastic,
+you are the flower
+that most attracts
+drones.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -773,7 +1134,21 @@ content_book_i_eng = [
         "poem_id": 23,
         "name": "cliche_ii",
         "title": "Cliché II",
-        "body": "",
+        "body": """Mångata?
+Nothing more than
+the faint reflection
+on dying
+puddles.
+
+They dry under the sun
+and the evidence
+of your nocturnal glow disappears.
+
+Mångata,
+what do you mean inmortal?
+When/if you depend
+on the ephemeral
+to be visible.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -784,7 +1159,41 @@ content_book_i_eng = [
         "poem_id": 24,
         "name": "teeth",
         "title": "Teeth",
-        "body": "",
+        "body": """I wanted to say goodbye
+with an origami letter.
+I didn’t make it,
+I didn’t have the time;
+you say I don’t know how to measure it,
+that I don’t know how to measure myself.
+
+I was going to make you a sunflower,
+or a gladiolus;
+green, white, and red.
+—I remember what you tell me
+even if you accuse my memory
+of being worse than yours—.
+
+Inside, I was going to write
+that I wasn’t just looking for
+a "literary" friendship.
+That I wanted more
+rooftops,
+more back seats,
+more kitchen nooks,
+kisses on glass,
+scars and poems.
+
+I was going to write it,
+but today
+I accompanied you on the bus,
+and you bit me,
+I didn’t expect it.
+I regretted it.
+Your teeth convinced me.
+
+that it is not necessary
+to press you
+to find a muse in you.""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -796,7 +1205,43 @@ content_book_i_eng = [
         "poem_id": 25,
         "name": "monotony",
         "title": "Monotony",
-        "body": "",
+        "body": """How is everything with him?
+You don’t want to talk about it, it’s complicated.
+I understand, I understand.
+
+I don’t want to make you uncomfortable
+or make you think
+unpleasant things.
+
+I just wanted to know about you
+because yesterday
+you told me
+it’s difficult not to fall into monotony.
+
+You talked about his love,
+about how he has "matured";
+how "stable" it is.
+
+Euphemisms
+to disguise the embers
+of a passion
+that stifled its flame.
+
+I know,
+you want to feel it again:
+the warmth of fire
+before it burns.
+
+But you’re afraid
+to get so close that
+you can’t extinguish me
+with a blow.
+
+But don’t worry,
+my intentions are not
+to manipulate you to cast him aside;
+I just don’t want you to stop being
+my muse.""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -808,7 +1253,29 @@ content_book_i_eng = [
         "poem_id": 26,
         "name": "stitch",
         "title": "Stitch",
-        "body": "",
+        "body": """Hello,
+how are you?
+Perhaps it will please you to know
+that I’m back to writing.
+And you, what have you done with your life?
+
+I hope I haven’t harmed your mind
+with that business of reflecting
+on it,
+
+because I
+have been feeling anxious
+when looking at the sky;
+it’s hard for me to believe
+it can dispel the dissatisfaction
+that some feel
+for the life they didn’t choose to live.
+
+Who might have chosen it for me?
+
+It doesn’t matter,
+if, in the end,
+my anxiety doesn’t come from there.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -819,7 +1286,41 @@ content_book_i_eng = [
         "poem_id": 27,
         "name": "weariness",
         "title": "Weariness",
-        "body": "",
+        "body": """One eye half-open
+and the other disconnected from the mind.
+
+Those of black color
+have been deprived
+the richness
+of a chromatic life.
+
+Wristwatch
+of sadomasochistic leather.
+
+The passage of time
+is the tool of pleasure
+for those who enjoy
+the suffering of the ephemeral.
+
+Tears eroding
+the porous skin between septum and cheekbones.
+
+A face so battered
+by the gentle
+drops of dew
+brought by the early mornings.
+
+Early mornings I await awake
+because in me there is no desire to rest.
+
+Your slap of reality
+was so harsh
+that my imagination no longer dares
+to dream that I am your owner.
+
+If I cannot dream
+of being happy,
+what’s the point of sleeping?""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -831,7 +1332,66 @@ content_book_i_eng = [
         "poem_id": 28,
         "name": "another_form_of_pain",
         "title": "Another Form of Pain",
-        "body": "",
+        "body": """The insensitivity
+that pain brings
+does not make you
+immune to sadness,
+
+because true
+suffering comes
+from the mind.
+
+Don’t you believe me?
+
+When the threshold
+of pain is crossed,
+bodies
+yield to insensitivity.
+
+Drunk on adrenaline,
+I could have
+my guts hanging
+on the sidewalk
+without feeling pain.
+
+I tell you,
+God was not
+so cruel when creating
+the human being after all.
+
+But what
+did man do?
+
+He fed his mind
+with the fruit of
+the tree of knowledge.
+
+And now
+conscious,
+seeing guts oozing
+through the sewer;
+
+cries, weeping,
+and curses
+where does this pain come from?
+
+I’ve already told you:
+
+"ignorance makes..."
+
+Why do I tell you this?
+
+To explain to you,
+
+that despite
+your comment
+not hurting me,
+I am intelligent enough
+to know that
+it should.
+
+And that
+makes me sad""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -843,7 +1403,89 @@ content_book_i_eng = [
         "poem_id": 29,
         "name": "caribbean",
         "title": "Caribbean",
-        "body": "",
+        "body": """I promote the idea
+of an opaque
+and visceral work
+that anyone
+can relate to
+the beauty
+that is born from pain.
+
+But people
+don’t want to make the effort
+to appreciate details;
+
+they label me a heretic
+when I try to exercise
+their minds.
+
+But time will prove me right
+because, although I am no saint,
+I speak with prophecies:
+
+for "every life
+culminates in death."
+
+And though I may not know
+if you like what I write,
+I am sure
+that someday
+you will die,
+
+but
+"no one is a prophet in their own land."
+
+And
+my words
+dissolve in the humidity of the air.
+
+Warm, the Caribbean
+oppresses art.
+
+Its sun
+so overwhelming,
+
+that with lingering affection
+at night
+caresses the homeless
+and to me
+it doesn’t let me sleep,
+
+awakens the clouds
+that emerge from the sea.
+
+Dancing,
+they mimic the sway
+of the waves
+and inspire
+the breeze
+to carry chromatic melodies
+that won’t let me get depressed.
+
+The good weather imposes
+its joy
+on those of us who want to see
+life in shades of gray;
+
+its warmth prevents
+the creation
+of art
+that is not happy.
+
+With optimism
+fills with brightness
+a dull canvas.
+
+I myself
+have committed this sin,
+
+for
+I have noticed that
+even if the sky darkens,
+just by hearing
+the cry of
+a black woman,
+I become happy.""",
         "cover_url": libro_ii_cover,
         "pages": 3,
         "ig_url": "",
@@ -855,7 +1497,50 @@ content_book_i_eng = [
         "poem_id": 30,
         "name": "inspiration",
         "title": "Inspiration",
-        "body": "",
+        "body": """Loneliness.
+Feeling that you have lived
+your whole life alone;
+your whole life without a lover.
+
+To know death
+separates flesh from desire;
+confined in the chest
+of a changing god.
+
+Oblivion.
+Interpreting memory
+as the sole witness
+of reality.
+
+Without memory,
+how to distinguish
+what is not remembered
+from what has never existed?
+
+The inevitable.
+The dichotomy of life,
+its purpose
+in death.
+
+Fruitless to seek
+immortality in art,
+if not even a god remains eternal
+when its worship is abandoned.
+
+The nothingness.
+Feeling that you have squandered
+the meaning
+that you yourself have created.
+
+Knowing that you have lived without friends,
+family, god,
+or lover.
+
+Loneliness.
+The only one
+that accompanies the writer
+when observing in silence,
+secluded.""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -867,7 +1552,73 @@ content_book_i_eng = [
         "poem_id": 31,
         "name": "low_tide",
         "title": "Low Tide",
-        "body": "",
+        "body": """Marine creatures,
+nocturnal and abyssal.
+
+Afloat,
+existential nightmares.
+What are they
+and why do they feed on me?
+What is the sea,
+and how does so much fit
+in my dreams?
+
+Marine creatures,
+nocturnal and soulless.
+
+Afloat,
+childhood traumas,
+being the sum
+of personality leftovers.
+Others
+build their immortality
+on other poeple’s memories.
+
+Marine creatures,
+nocturnal and divine.
+
+Afloat,
+thoughts:
+When I dream, am I a god?
+— And when I wake up —
+Is God dreaming?
+What causes God nightmares,
+humans?
+
+Marine creatures,
+nocturnal and sensitive.
+
+Afloat,
+"new ideas",
+recycling of archetypes.
+Originality is self-deception;
+creativity,
+the description
+of what we have all already felt
+with words that no one
+has thought of.
+
+Marine creatures,
+nocturnal and invisible.
+
+They swim in my dreams,
+wander in my thoughts;
+there they nourish,
+and they begin to grow.
+You don’t see them,
+you don’t hear them,
+but there they are,
+hidden beneath my skin.
+
+Creatures that
+speak, swim
+and observe.
+
+Speak, wander
+and laugh.
+
+Speak, swim
+and feed on me.""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -879,7 +1630,83 @@ content_book_i_eng = [
         "poem_id": 32,
         "name": "the_house_of_leaks",
         "title": "The House of Leaks",
-        "body": "",
+        "body": """Leaks over masses of newspaper and cloth;
+it started to stink days ago.
+
+The stench is dense and distracting,
+as a witness of time
+that does not stop.
+
+Humidity rises
+and seeps through cracks,
+through the walls to the ceiling;
+
+as if prophesying
+that, from the foundations,
+everything will crumble.
+
+In bed,
+it seems as if it were so.
+
+Attentive,
+I observe the ceiling,
+waiting for debris
+to fall upon me.
+
+I have somatized the emotional burden,
+that white and slimy tumor
+keeps on growing.
+
+It settles in my eye sockets
+and doesn’t let me see.
+
+And as my mental peace
+depends on my lucidity,
+not having clarity
+makes me feel dense and heavy,
+difficult to maneuver.
+
+Blinded,
+I attract thoughts covered
+by gray mist,
+and white noise.
+
+Like a sea of people
+up to the ceiling,
+whispering
+all at the same time.
+
+Without knowing
+who says what;
+without hearing
+a familiar voice,
+without seeing
+a familiar face.
+
+It’s the universe
+trying to collapse
+inside my chest.
+
+It’s everything
+precipitated towards a small point;
+a sharp blow,
+a gradual implosion.
+
+My gravity trapping mass
+and dilating time,
+without abstraction, nor emotions.
+Pure fleeting matter.
+
+It’s my own thoughts
+lashing out against me.
+
+Finally,
+the light extinguishes and
+the stars bid farewell to the sunset...
+
+I pause,
+something hits my face.
+I don’t know if it’s cement or water.""",
         "cover_url": libro_ii_cover,
         "pages": 3,
         "ig_url": "",
@@ -891,7 +1718,12 @@ content_book_i_eng = [
         "poem_id": 33,
         "name": "femme_fatale",
         "title": "Femme Fatale",
-        "body": "",
+        "body": """A lover,
+a muse
+a sun, a star.
+
+The disruptive inspiration
+that feeds the poem.""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -902,7 +1734,71 @@ content_book_i_eng = [
         "poem_id": 34,
         "name": "the_red_rose",
         "title": "The Red rose",
-        "body": "",
+        "body": """You had already opened your petals
+and wandered carefree,
+scattering them around;
+day and night
+you danced,
+capturing glances
+and making the sun fall in love.
+
+Red rose
+like sadomasochistic
+blood,
+intense and indecent color
+like the desire to possess you,
+to pierce me with your thorns,
+each one of them
+just for the pleasure
+of feeling again.
+
+To pierce some into my tongue
+so as not to praise
+another flower.
+
+Others into my neck,
+as a penitent for art.
+
+And only one in my mind,
+enough not to forget
+that I idealized a life
+together with you.
+
+Unfortunately, rose,
+you are no longer red.
+Not as I remembered.
+
+You have shaved every petal
+and now only
+thorns remain.
+
+You have withered,
+and it doesn’t seem
+like you’re going to stop.
+
+Even so,
+it would be a privilege
+to see you die,
+
+because you live organically.
+You are not plastic
+like those
+who seek to monopolize the sun.
+
+That’s why,
+I would like
+to witness your death,
+
+or ours.
+
+If you allow it,
+I would gladly squeeze you with enough force
+to bleed my chest over you.
+
+To be a martyr,
+just so you can live
+what remains for you
+as the reddest rose.""",
         "cover_url": libro_ii_cover,
         "pages": 2,
         "ig_url": "",
@@ -914,7 +1810,12 @@ content_book_i_eng = [
         "poem_id": 35,
         "name": "reflection_x",
         "title": "Reflection X",
-        "body": "",
+        "body": """What if
+our consciousness
+is the memory
+of a self
+agonizing
+in the present?""",
         "cover_url": libro_ii_cover,
         "ig_url": "",
         "language_id": 2,
@@ -928,7 +1829,41 @@ content_poemas_para_mi_eng = [
         "poem_id": 36,
         "name": "between_teeth",
         "title": "Between Teeth",
-        "body": "",
+        "body": """Evasively
+I answer you:
+"I have nothing."
+Don’t you understand?
+I do "have something":
+I crumble inside.
+
+I tell you:
+"Nothing happens."
+What hasn’t happened?
+Can’t you see it?
+I feel that
+nothing worse
+can happen.
+
+I avoid you with a
+"I’m just tired."
+Wake up!
+With screams I let you know
+that I am bored
+of the everyday.
+
+I explain to you
+"Nihilism ’this’...
+Nihilism ’that’."
+I am telling you
+—not joking—
+that I don’t find
+meaning in life.
+
+I share with you
+another of my thoughts:
+"I long for death,"
+even if you never hear it,
+I shout it between teeth.""",
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 2,
@@ -939,7 +1874,52 @@ content_poemas_para_mi_eng = [
         "poem_id": 37,
         "name": "lounova",
         "title": "Lounová",
-        "body": "",
+        "body": """I used to ask you:
+why are you so perfect?
+Now I wonder:
+why do I like you so much?
+
+I’d like to know,
+seriously,
+so that it would stop being like this;
+because
+"ignorance makes you happy"
+and the knowledge of your absence
+tears apart my insides,
+my spirit,
+my mind
+and my soul.
+
+Every message from you
+is a small dose
+that increases my dependence on you;
+addicted to an illusion,
+addicted to your memory.
+
+Addiction
+that I soothe
+with self-deception:
+the only real option,
+that has always been there.
+
+But it’s not healthy
+to evade reality
+to fantasize about you.
+
+I must accept that you were
+a sweet dream
+forgotten upon waking.
+
+All that’s left for me,
+against every impulse,
+is to convince myself that
+you are no longer my muse,
+that perhaps
+you never were,
+and say goodbye.
+
+A farewell
+never sounded so bitter.""",
         "cover_url": poemas_para_mi_cover,
         "pages": 2,
         "ig_url": "",
@@ -951,7 +1931,35 @@ content_poemas_para_mi_eng = [
         "poem_id": 38,
         "name": "girlfriend",
         "title": "Girlfriend",
-        "body": "",
+        "body": """In the early morning
+insomnia induces a transient in me.
+Two seconds ago,
+leaning on your hips,
+I searched for constellations in your freckles;
+a second later,
+I woke up.
+
+Reality whispered to me.
+—There are no hips, no freckles.
+There is no hair, eyes, or skin;
+red, green, or white.
+
+And now,
+from the corner of my eye,
+tears leak.
+Face up I look,
+beyond the ceiling,
+towards my destiny:
+
+Loneliness and frustration.
+
+Because when I could
+it wasn’t God’s time.
+And now that I want, I know
+that, because of me,
+you haven’t been, you aren’t
+and I am convinced
+that you won’t be either.""",
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 2,
@@ -962,7 +1970,86 @@ content_poemas_para_mi_eng = [
         "poem_id": 39,
         "name": "zplplplyk",
         "title": "[ZPLPLPLYK]",
-        "body": "",
+        "body": """Badly tripping,
+my mind is possessed
+by a macabre childish melody;
+pure and diabolical art.
+The anthem of my traumas?
+It reverberates in my chest,
+overpowers their words,
+my songs.
+It is powerful
+and I don’t know why.
+I try to ignore it
+but every movement
+resembles its form.
+An archetype, a concept, a symbol.
+Subliminal, ancestral?
+A large, arched rectangular talisman
+with a square at its base.
+[ZPLPLPLYK], [ZPLPLPLYK].
+Words I don’t understand,
+words that
+I can’t pronounce;
+a 5/4 rhythm
+in which I cannot fit.
+Quarter-note beats strike me
+dancing in rituals of Santeria.
+The Sardana of the witches,
+barefoot on my halo,
+they soil it, let it decay.
+They damage my mind so I accept them,
+because they have chosen me
+"Saint"
+according to their pagan providence.
+They block my prayers,
+they block God.
+I regain consciousness in short intervals,
+each time closer to the ground.
+I lie down in front of the sofa,
+I crawl to the bathroom.
+I regain consciousness of my frustration
+lying, kissing the floor.
+I regain the sense of pain
+vomiting blood.
+Schwag or placebo?
+It doesn’t matter; I somatize the trip.
+[ZPLPLPLYK], [ZPLPLPLYK].
+Screeching chants, deep sobs,
+untempered moans,
+chains being dragged.
+A compound beat
+composed of wide nuances
+of strong emotions.
+I cast my gaze into the hallway
+as I crawl through the frame
+and call out to Frank.
+A cry that stifles searching for him
+in the growing distance.
+When he manages to see me,
+already in infinity,
+He can’t contain the laughter.
+My whimpering never reached his ears,
+only the pathetic image
+of a pretentious one who got lost
+in his own thoughts.
+Image he shares with the muses,
+who cover their delicate little mouths
+to hide depraved laughter.
+Morbidly, they observe
+the most embarrassing spectacle:
+An "artist"
+crawling on the floor,
+all to find a bit of inspiration.
+What did I get?
+[ZPLPLPLYK], [ZPLPLPLYK].
+Harmonies, melodies,
+rhythms I don’t understand...
+Words I’m not able to write,
+a bad trip I don’t want to repeat
+and the fear that everything
+might have been a product
+of my own mind.""",
         "cover_url": poemas_para_mi_cover,
         "pages": 3,
         "ig_url": "",
@@ -974,7 +2061,78 @@ content_poemas_para_mi_eng = [
         "poem_id": 40,
         "name": "miketta",
         "title": "Miketta",
-        "body": "",
+        "body": """You are the first artist
+I have caressed
+with indecency,
+scratches
+from my
+frustrated guitarsit
+"magical" hands.
+
+And even though
+you bled,
+your nobility
+impressed me:
+you felt no pain,
+you felt shame.
+
+Shame for two fingers
+stained with blood,
+for your bite
+on my arm.
+Shame
+for
+displaying your desires
+in a natural way.
+
+Shame that I see
+and makes me feel guilty.
+
+You are the innocence
+and kindness
+that I need
+to corrupt.
+
+I desire to untie the knots
+that keep your mind
+bound to clichés.
+
+Introducing you to my muses:
+reality,
+insomnia, sadness
+and depression.
+
+Inviting them to
+inspire your artwork,
+our future
+story:
+the only letter
+of heartbreak
+I’m interested in reading.
+
+I detai you
+with thoroughness
+to understand
+the reason behind
+your tears.
+
+I observe you
+in detail
+to know what
+you want to hear.
+
+I tell you that I am
+a complete gentleman
+while methodically
+running my fingertips
+over your back.
+
+I figured out how
+to caress your tattoo;
+and you,
+that I truly
+intend
+to harm you.""",
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 2,
@@ -985,7 +2143,40 @@ content_poemas_para_mi_eng = [
         "poem_id": 41,
         "name": "manipulation",
         "title": "Manipulation",
-        "body": "",
+        "body": """Yesterday, I bit your nipple
+and I think I poisoned your chest.
+
+Apparently, it was deep
+and reached your lungs,
+because today you walk
+breathing with difficulty,
+as if agonizing.
+
+You scrutinize me erratically
+with a
+dull gaze,
+seeking explanations
+for my actions.
+
+Hoping to find
+my kindness.
+
+It saddens me
+to see you lament
+the inexorable dissatisfaction
+of your search.
+
+You won’t find anything good
+in me,
+only diminish your faith.
+
+But I understand you.
+After all,
+from venom
+comes the antidote.
+
+—With new traumas—.
+What void are you trying to fill?""",
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 2,
@@ -996,7 +2187,64 @@ content_poemas_para_mi_eng = [
         "poem_id": 42,
         "name": "unforgettable",
         "title": "Unforgettable",
-        "body": "",
+        "body": """Unbelievable,
+four years
+and you remain
+a recurring thought.
+
+A fleeting scent
+that I hold in my lungs.
+
+The constant acidity
+burning my palate.
+
+An incessant implosion
+reverberating in my chest.
+
+The void
+that I don’t feel ready to fill.
+
+I try to do it
+reconstructing you with words,
+but inevitably
+I fall onto common ground,
+bursting hard
+against reality:
+
+That you’re not here,
+that I need you,
+and that, even though you’re the perfect muse,
+I’m not enough for you.
+
+Because I haven’t managed
+to combine the perfect words
+to immortalize your beauty.
+
+Because I haven’t managed
+to bring you down from the Parnassus.
+To display you before the unbelieving
+and insensitive.
+
+Perhaps,
+that’s why I may not deserve to have you;
+or perhaps
+I haven’t exerted
+enough effort.
+
+I haven’t dedicated my life
+to immortalize yours,
+writing the perfect poem.
+
+Nor have my fingers pressed
+with enough force
+the keyboard until they bleed.
+
+If I haven’t risked my life
+to reach where you are,
+
+how could I be such a hypocrite
+to then tell you
+that I would die for you?""",
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 2,
@@ -1007,7 +2255,47 @@ content_poemas_para_mi_eng = [
         "poem_id": 43,
         "name": "grandmother",
         "title": "Grandmother",
-        "body": "",
+        "body": """I feel a bit hypocritical
+receiving the
+"heartfelt condolences."
+
+I was never attached to her
+and honestly
+I don’t feel bad
+for her death.
+
+In fact, I feel tranquil
+because her agony is over.
+
+That’s why,
+they should approach with a
+"I am sorry that she suffered
+in her final moments."
+
+That is true consolation,
+I could believe it is
+a sincere comment.
+
+Because empathy
+comes from understanding others’ pain,
+
+and even though I didn’t love her,
+I feel sadness
+because I saw her suffer.
+
+Hopeless
+with a tear
+she made us understand
+that she suffered when accepting her death.
+
+At least in it
+she found liberation
+and there is no more suffering,
+
+or well
+only remains
+that of the living
+mourning her death.""",
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 2,
@@ -1018,7 +2306,20 @@ content_poemas_para_mi_eng = [
         "poem_id": 44,
         "name": "balcony",
         "title": "Balcony",
-        "body": "",
+        "body": """If you feel like jumping, call me
+and we’ll both jump.
+
+So you’ll see that I’m not lying,
+when I tell you:
+"love is a decision";
+
+that, if you give me your hand,
+I would hold onto it for the rest of my life,
+
+and accepting death,
+is not so difficult,
+if I have you by my side.
+15""",
         "cover_url": poemas_para_mi_cover,
         "ig_url": "",
         "language_id": 2,
