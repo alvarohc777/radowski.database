@@ -19,6 +19,7 @@ CREATE TABLE "content" (
   "poem_id" int,
   "name" varchar(35) NOT NULL,
   "title" varchar(35) NOT NULL,
+  "dedication" varchar(35),
   "body" varchar(2500) NOT NULL,
   "cover_url" varchar(100) NOT NULL,
   "ig_url" varchar(100),
