@@ -11,7 +11,7 @@ from utils import statements
 from utils import utils as ut
 from utils.dummy_data import poem_content_language
 
-db_name = "radowski_dev"
+db_name = "radowski_dev2"
 connection_string = connection_strings.AZURE
 connection_string["dbname"] = db_name
 

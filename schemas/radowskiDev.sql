@@ -17,6 +17,7 @@ CREATE TABLE "content" (
   "id" serial PRIMARY KEY,
   "name" varchar(35) NOT NULL,
   "title" varchar(35) NOT NULL,
+  "dedication" varchar(35),
   "body" varchar(2500) NOT NULL,
   "pages" int NOT NULL DEFAULT 1,
   "cover_url" varchar(100) NOT NULL,
