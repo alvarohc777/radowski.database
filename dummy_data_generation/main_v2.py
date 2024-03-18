@@ -4,9 +4,9 @@ from utils import statements
 from utils import utils as ut
 from utils import connection_strings
 
-db_name = "radowski_dev2"
+db_name = "radowski_dev"
 
-connection_string = connection_strings.AZURE
+connection_string = connection_strings.AZURE_FINALE_APP
 print(connection_string)
 connection_string["dbname"] = db_name
 print(connection_string)
@@ -38,6 +38,8 @@ with psycopg.connect(**connection_string) as conn:
         pass
         # Insert Statements
 
+        # ut.generic_delete(cur, "book_content")
+        # ut.generic_insert(cur, insert_statement, "book_content", dt.book_content)
         batch_delete(cur)
         batch_insert(cur)
 
