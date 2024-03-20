@@ -1,7 +1,7 @@
 import datetime
 
 
-azure_blob_token = "?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-02-10T11:26:21Z&st=2024-01-23T03:26:21Z&spr=https&sig=mpe3aTH4DxOM8ZEDo0Loin8OBMnqvrjFUaPAXFVyNjs%3D"
+azure_blob_token = "sv=2022-11-02&ss=bfqt&srt=sco&sp=r&se=2024-12-31T12:27:34Z&st=2024-02-12T04:27:34Z&spr=https&sig=fOf%2Fsnurp420W8P%2BPxPcbIR56eLCGJ8pu4OjXiWj8cY%3D"
 azure_blob_cover = "https://radowski.blob.core.windows.net/cover/<blob_name>"
 azure_blob_book = "https://radowski.blob.core.windows.net/book/<blob_name>"
 azure_blob_poem = "https://radowski.blob.core.windows.net/poem/<blob_name>"
@@ -244,7 +244,7 @@ content_book_i = [
         "title": "Nostalgia",
         "dedication": None,
         "body": "Recuerdo…\nlos buenos tiempos pasados\ncomo pinceladas opacas\nsobre un lienzo gris.\n\nMis traumas,\nexplanadas de negro;\nconstantemente sueño\ncon el vacío de la noche.\n\nPesadillas recurrentes,\nen micro sueños\nque parecen eternos.\n\nLibido ahogada\npor parálisis de sueño.\n\nSin placer en lo banal,\nse deprimen los sentidos;\natrofiados,\nya no perciben\nlas cosas bellas de la vida.\n\nInsensible a los matices,\nsolo descanso\nentre ruido blanco.\n\nSolo la música\ntrae color\na mis recuerdos.\n\nY solo tú\ntraes\nel verde y rojo\nque necesito\npara no estar triste.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -256,7 +256,7 @@ content_book_i = [
         "title": "Un Mundo Triste",
         "dedication": None,
         "body": "Un mundo triste\ndonde la gente aprende,\ndonde la gente crece.\n\nLlegan al límite\nde sus capacidades,\na la cúspide\ndel conocimiento.\n\nAgobiados por\nlas preguntas\nde antaño\nencuentran las\nrespuestas de siempre:\n\nQue no hay destino;\nque todo es azar.\n\nQue cualquier cosa es correcta\nsi se puede justificar.\n\nY aunque todo es relativo\ny nada sea verdad,\n\nel propósito de la vida\nsigue siendo\nla muerte.\n\nSolo con certeza de ello,\nviviendo en un mundo así,\n¿para qué prolongar\nlo inexorable?",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -268,7 +268,7 @@ content_book_i = [
         "title": "Acrílico",
         "dedication": None,
         "body": "Soñé con el abismo,\notra vez.\nCada vez más oscuro\ny cerca de mí.\n\nAl borde de la cornisa\ndescendiendo en\nen espiral,\ny cada noche,\nantes de despertar,\nme detengo\ny observo el cielo,\n\nOpaco y gris,\ncomo con un amanecer distante;\napagado y sordo,\nlloviendo siempre aquí.\n\nSoñé con el abismo,\notra vez.\nCada vez más oscuro\ny cerca de mí.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -280,7 +280,7 @@ content_book_i = [
         "title": "Cliché",
         "dedication": None,
         "body": "Impostora,\naunque seas plástica\neres la flor\nque más atrae\nzánganos.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -292,7 +292,7 @@ content_book_i = [
         "title": "Cliché II",
         "dedication": None,
         "body": "¿Mångata?\nNo más que\nel reflejo tenue\nsobre charcos\nagonizantes.\n\nSe secan bajo el sol\ny desaparece la evidencia\nde tu brillo nocturno.\n\n¿Mångata,\ncómo que inmortal?\nSi dependes\nde lo efímero\npara ser visible.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -304,7 +304,7 @@ content_book_i = [
         "title": "Dientes",
         "dedication": None,
         "body": "Me quise despedir\ncon una carta origami.\nNo la hice,\nlos tiempos no me dieron;\ndices que no sé medirlos,\nque no sé medirme.\n\nTe iba a hacer un girasol,\no un gladiolo;\nverde, blanco y rojo.\n—Recuerdo lo que me dices\naunque acuses a mi memoria\nde ser peor que la tuya—.\n\nDentro iba a escribir\nque no buscaba simplemente\nuna amistad “literaria”.\nQue quería más\nazoteas,\nmás asientos traseros,\nmás rincones de cocina,\nbesos sobre vidrios,\ncicatrices y poemas.\n\nLo iba a escribir,\npero hoy\nte acompañé en el bus,\ny me mordiste,\nno lo esperaba.\nMe arrepentí.\nTus dientes me convencieron\nque no es necesario\npresionarte\npara encontrar en ti\nuna musa.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 1,
@@ -317,7 +317,7 @@ content_book_i = [
         "title": "Monotonía",
         "dedication": None,
         "body": "¿Cómo sigue todo con él?\nNo quieres hablar de eso, es complicado.\nEntiendo, entiendo.\n\nNo quiero incomodarte\nni ponerte a pensar\nen cosas poco placenteras.\n\nSolo quería saber de ti\nporque ayer\nme dijiste que\nes difícil no caer en la monotonía.\n\nHablaste de su amor,\nsobre cómo ha “madurado”;\nlo “estable” que es.\n\nEufemismos\npara maquillar el rescoldo\nde una pasión\nque ahogó su llama.\n\nLo sé,\nquieres volver a sentirlo:\nel calor del fuego\nantes de que queme.\n\nPero tienes miedo\nde acercarte tanto que\nno puedas apagarme\ncon un soplido.\n\nPero tranquila,\nmis intenciones no son\nmanipularte para que lo botes;\nsolo quiero que no dejes de ser\nmi musa.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 1,
@@ -330,7 +330,7 @@ content_book_i = [
         "title": "Stitch",
         "dedication": None,
         "body": "Hola,\n¿cómo vas?\nTal vez te alegre saber\nque he vuelto a escribir.\n¿Y tú, qué has hecho con tu vida?\n\nEspero no haberte dañado la mente\ncon eso de reflexionar\nsobre ella,\n\npues yo\nhe estado sintiendo ansias\nal ver el cielo;\nme resulta difícil creer\nque pueda disipar la inconformidad\nque algunos sienten\npor la vida que no escogieron vivir.\n\n¿Quién la habrá escogido para mí?\n\nNo importa,\nsi es que al final\nmi ansiedad no viene de ahí.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -342,7 +342,7 @@ content_book_i = [
         "title": "Cansancio",
         "dedication": None,
         "body": "Un ojo entreabierto\ny otro desconectado de la mente.\n\nA los de color negro\nse les ha privado\nla riqueza\nde una vida cromática.\n\nReloj de pulsera\nde cuero sadomasoquista.\n\nEl paso del tiempo\nes la herramienta de placer\npara quien disfruta\ndel sufrimiento de lo efímero.\n\nLágrimas erosionando\nla piel porosa entre tabique y pómulos.\n\nUn rostro tan golpeado\npor las gentiles\ngotas de rocío\nque traen las madrugadas.\n\nMadrugadas que espero despierto\nporque en mí no hay deseo de descansar.\n\nTu bofetada de realidad\nfue tan dura\nque mi imaginación ya ni se atreve\na soñar que soy tu dueño.\n\nSi no puedo soñarme\nsiendo feliz,\n¿qué sentido tiene dormir?",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 1,
@@ -355,7 +355,7 @@ content_book_i = [
         "title": "Otra Forma de Dolor",
         "dedication": None,
         "body": "La insensibilidad\nque trae el dolor\nno te vuelve\ninmune a la tristeza,\n\nporque el verdadero\nsufrimiento viene\nde la mente\n\n¿No me crees?\n\nCuando se cruza el umbral\nde dolor\nlos cuerpos\nceden a la insensibilidad.\n\nEmbriagado de adrenalina,\npodría tener\nlas tripas colgando\nen la acera\nsin sentir dolor\n\nTe lo digo,\nDios no fue\ntan cruel al crear al ser\nhumano después de todo.\n\n¿Pero, qué\nhizo el hombre?\n\nAlimentó su mente\ncon el fruto del\nárbol del conocimiento.\n\nY ahora\nconsciente,\nviendo tripas escurriéndose\npor la alcantarilla;\n\ngritos, llanto\ny maldiciones\n¿de dónde sale este dolor?\n\nYa te lo he dicho:\n\n“la ignorancia te…”\n\n¿Que por qué te digo esto?\n\nPara explicarte,\n\nque a pesar\nde que tu comentario\nno me haga sentir mal,\nsoy lo suficientemente inteligente\npara saber que\ndebería.\n\nY eso\nme pone triste.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 1,
@@ -368,7 +368,7 @@ content_book_i = [
         "title": "Caribe",
         "dedication": None,
         "body": "Promuevo la idea\nde una obra opaca\ny visceral\nque cualquiera\nsea capaz de relacionar con\nla belleza\nque nace del dolor.\n\nPero la gente\nno quiere esforzarse\nen apreciar detalles,\n\nme tildan de hereje\ncuando trato de ejercitar\nsus mentes.\n\nPero el tiempo me dará la razón\nporque, aunque no sea santo,\nhablo con profecías:\n\npues “toda vida\nculmina en la muerte”\n\ny aunque no sepa si\nte gusta lo que escribo\nestoy seguro\nque algún día\nmorirás,\n\npero\n“nadie es profeta en su propia tierra”\n\ny\nmis palabras\nse disuelven en la humedad del aire.\n\nCálido, el Caribe\noprime el arte.\n\nSu sol\ntan agobiante,\n\nque con cariño remanente\nde noche\nacaricia al indigente\ny a mí\nno me deja dormir,\n\ndespierta a las nubes\nque emergen del mar.\nBailando,\nimitan el vaivén\nde las olas\ne inspiran\na la brisa\na cargar melodías cromáticas\nque no me dejan deprimir.\n\nImpone el buen clima\nsu alegría\nsobre los que queremos ver\nla vida color gris;\n\nsu calidez impide\nla creación\nde arte\nque no sea feliz.\n\nCon optimismo\nllena de brillo\nun lienzo opaco.\n\nYo mismo\nhe cometido este pecado,\n\npues\nhe notado que\naunque el cielo se oscurezca\nsolo con escuchar\nel grito de\nuna negra\nme pongo feliz.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 3,
         "ig_url": "",
         "language_id": 1,
@@ -381,7 +381,7 @@ content_book_i = [
         "title": "Inspiración",
         "dedication": None,
         "body": "La soledad.\nSentir que has vivido\ntoda la vida solo;\ntoda la vida sin amante.\n\nSaber que la muerte\nsepara la carne del deseo;\nencerrado en el cofre\nde un dios cambiante.\n\nEl olvido.\nInterpretar el recuerdo\ncomo único testigo\nde la realidad.\n\nSin memoria,\n¿cómo diferenciar\nlo que no se recuerda\nde lo que nunca ha existido?\n\nLo inevitable.\nLa dicotomía de la vida,\nsu propósito\nen la muerte.\n\nInfructuoso buscar\ninmortalidad en el arte,\nsi ni un dios sigue eterno\ncuando se abandona su culto.\n\nLa nada.\nSentir que has malgastado\nel significado\nque tú mismo has creado.\n\nSaber que has vivido sin amigos,\nfamilia, dios\nni amante.\n\nLa soledad.\nLa única\nque acompaña al escritor\ncuando observa en silencio,\napartado.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 1,
@@ -394,7 +394,7 @@ content_book_i = [
         "title": "Marea Baja",
         "dedication": None,
         "body": "Criaturas marinas,\nnocturnas y abisales.\n\nA flote,\npesadillas existenciales.\n¿Qué son ellas\ny por qué se alimentan de mí?\n¿Qué es el mar,\ny cómo cabe tanto\nen mis sueños?\n\nCriaturas marinas,\nnocturnas y sin alma.\n\nA flote,\ntraumas de la infancia,\nser la suma\nde sobras de personalidad.\nLos demás\nconstruyen su inmortalidad\nsobre el recuerdo ajeno.\n\nCriaturas marinas,\nnocturnas y divinas.\n\nA flote,\npensamientos:\n¿Cuándo sueño soy un dios?\n— Y cuando despierto —\n¿Dios estará soñando?\n¿Qué le causa pesadillas a Dios,\nlos humanos?\n\nCriaturas marinas,\nnocturnas y sensibles.\n\nA flote,\n“nuevas ideas”,\nreciclaje de arquetipos.\nLa originalidad es autoengaño;\nla creatividad,\nla descripción\nde lo que ya todos hemos sentido\ncon palabras que a nadie\nse le han ocurrido.\n\nCriaturas marinas,\nnocturnas e invisibles.\n\nNadan en mis sueños,\nvagan en mis pensamientos;\nahí se nutren,\ny empiezan a crecer.\nTú no las ves,\ntú no las oyes,\npero ahí están,\nocultas bajo mi piel.\n\nCriaturas que\nhablan, nadan\ny observan.\n\nHablan, vagan\ny ríen.\n\nHablan, nadan\ny se alimentan de mí.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 1,
@@ -407,7 +407,7 @@ content_book_i = [
         "title": "La Casa de las Goteras",
         "dedication": None,
         "body": "Goteras sobre masas de periódico y tela;\nhace días empezó a apestar.\n\nEl hedor es denso y distrae,\ncomo testigo del tiempo\nque no se detiene.\n\nLa humedad se eleva\ny se escurre entre grietas,\npor las paredes hasta el techo;\n\ncomo profetizando\nque, desde los cimientos,\ntodo se desmoronará.\n\nEn cama,\nparece que fuera así.\n\nAtento\nobservo el techo,\nesperando que escombros\ncaigan sobre mí.\n\nHe somatizado la carga anímica,\neso tumor blanco y baboso\nno para de crecer.\n\nSe acomoda en mis cuencas\ny no me deja ver.\n\nY como mi paz mental\ndepende de mi lucidez,\nno tener claridad\n\nme hace sentir denso y pesado,\ndifícil de maniobrar.\n\nCegado,\natraigo pensamientos cubiertos\npor neblina gris,\ny ruido blanco.\n\nComo un mar de gente\nhasta el techo,\nsusurrando\ntodos al mismo tiempo.\n\nSin saber\nquién dice qué;\n\nsin escuchar\nuna voz conocida,\nsin ver\nun rostro familiar.\n\nEs el universo\nqueriendo colapsar\ndentro de mi pecho.\n\nEs todo\nprecipitado hacia un punto pequeño;\nun golpe seco,\nuna implosión gradual\n\nMi gravedad atrapando masa\ny dilatando el tiempo,\n\nsin abstracción, ni emociones.\nPura materia fugaz.\n\nSon mis propios pensamientos\narremetiendo contra mí\n\nFinalmente,\nla luz se extingue y\nlas estrellas se despiden del atardecer…\n\nMe detengo,\nalgo golpea mi cara.\nNo sé si cemento o agua.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 3,
         "ig_url": "",
         "language_id": 1,
@@ -420,7 +420,7 @@ content_book_i = [
         "title": "Femme Fatale",
         "dedication": None,
         "body": "Una amante,\nuna musa\nun sol, una estrella.\n\nLa inspiración disruptiva\nque alimenta el poema.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -432,7 +432,7 @@ content_book_i = [
         "title": "Die Rosenrot",
         "dedication": None,
         "body": "Ya habías abierto tus pétalos\ny andabas despreocupada,\nregándolos por ahí;\ndía y noche\nbailabas,\nacaparando miradas\ny enamorando al sol.\n\nRosa roja\ncomo sangre\nsadomasoquista,\ncolor intenso e indecente\ncomo el deseo de poseerte,\nde clavarme tus espinas,\ncada una de ellas\nsolo por el placer\nde volver a sentir.\n\nClavar unas en mi lengua\npara no halagar\notra flor.\n\nOtras en mi cuello,\ncomo penitente por el arte.\n\nY solo una en mi mente,\nsuficiente para no olvidar\nque idealizaba una vida\njunto a ti.\n\nLastimosamente, rosa,\nya no eres roja,\nno como recordaba.\n\nHas rapado cada pétalo\ny ya solo\nquedan espinas.\n\nTe has marchitado,\ny no parece\nque te vayas a detener.\n\nAun así,\nsería un privilegio\nverte morir,\n\nporque vives orgánica.\nNo eres plástica\ncomo aquellas\nque buscan acaparar el sol.\n\nPor eso,\nme gustaría\npresenciar tu muerte,\n\no la nuestra.\n\nSi lo permites,\ncon gusto te apretaría con suficiente fuerza\npara desangrar mi pecho sobre ti.\n\nSer mártir,\nsolo para que vivas\nlo que te queda\ncomo la rosa más roja.",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 1,
@@ -445,7 +445,7 @@ content_book_i = [
         "title": "Reflexión X",
         "dedication": None,
         "body": "¿Y si\nnuestra conciencia\nes el recuerdo\nde un yo\nagonizando\nen el presente?",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 1,
         "created_at": datetime.datetime.now(),
@@ -1094,7 +1094,7 @@ bring
 the green and red
 I need
 to not be sad.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
@@ -1137,7 +1137,7 @@ Only certain of this,
 living in such a world,
 why prolong
 the inexorable?""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
@@ -1174,7 +1174,7 @@ once again.
 
 Each time deeper
 and within me.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
@@ -1190,7 +1190,7 @@ even if you’re plastic,
 you are the flower
 that most attracts
 drones.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
@@ -1216,7 +1216,7 @@ what do you mean inmortal?
 When/if you depend
 on the ephemeral
 to be visible.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
@@ -1262,7 +1262,7 @@ Your teeth convinced me.
 that it is not necessary
 to press you
 to find a muse in you.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 2,
@@ -1311,7 +1311,7 @@ my intentions are not
 to manipulate you to cast him aside;
 I just don’t want you to stop being
 my muse.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 2,
@@ -1346,7 +1346,7 @@ Who might have chosen it for me?
 It doesn’t matter,
 if, in the end,
 my anxiety doesn’t come from there.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
@@ -1392,7 +1392,7 @@ to dream that I am your owner.
 If I cannot dream
 of being happy,
 what’s the point of sleeping?""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 2,
@@ -1464,7 +1464,7 @@ it should.
 
 And that
 makes me sad""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 2,
@@ -1559,7 +1559,7 @@ just by hearing
 the cry of
 a black woman,
 I become happy.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 3,
         "ig_url": "",
         "language_id": 2,
@@ -1615,7 +1615,7 @@ The only one
 that accompanies the writer
 when observing in silence,
 secluded.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 2,
@@ -1694,7 +1694,7 @@ and laugh.
 
 Speak, swim
 and feed on me.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 2,
@@ -1783,7 +1783,7 @@ the stars bid farewell to the sunset...
 I pause,
 something hits my face.
 I don’t know if it’s cement or water.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 3,
         "ig_url": "",
         "language_id": 2,
@@ -1801,7 +1801,7 @@ a sun, a star.
 
 The disruptive inspiration
 that feeds the poem.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
@@ -1877,7 +1877,7 @@ To be a martyr,
 just so you can live
 what remains for you
 as the reddest rose.""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "pages": 2,
         "ig_url": "",
         "language_id": 2,
@@ -1895,7 +1895,7 @@ is the memory
 of a self
 agonizing
 in the present?""",
-        "cover_url": libro_ii_cover,
+        "cover_url": libro_i_cover,
         "ig_url": "",
         "language_id": 2,
         "created_at": datetime.datetime.now(),
